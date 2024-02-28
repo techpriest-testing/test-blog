@@ -1,7 +1,7 @@
 This is my blog, it's not great, but it's mine.
 
 ^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^
-2024.02.28 (let's pretend it's tomorrow)
+2024.02.28
 My favorite poem:
 The Road Not Taken, Robert Frost
 
@@ -28,8 +28,9 @@ Somewhere ages and ages hence:
 Two roads diverged in a wood, and I—
 I took the one less traveled by,
 And that has made all the difference.
-
+>>Comment Here
 
 ^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^V^
 2024.02.27
 Hello World!
+>>Comment Here
